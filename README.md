@@ -77,8 +77,7 @@ The management is seeking a deeper understanding of their customer base and the 
 To address these objectives, the following key questions need to be explored:
 
 * How the distribution of age, income and marital status affects customer purchasing patterns?
-* Does age, income, relationship status and number of children influence the product category purchased?
-* What products are often purchased together by customers and how can this be used to increase sales
+* What products are often purchased together by customers and how can this be used to increase sales?
 * What products have the highest and lowest sales rate?
 * How effective each campaign bacth to each product category revenue?
 
