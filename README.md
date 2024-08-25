@@ -76,12 +76,11 @@ The management is seeking a deeper understanding of their customer base and the 
 
 To address these objectives, the following key questions need to be explored:
 
-* How do factors such as birth year, marital status, education, and income levels influence the types of products customers purchase and the quantity of their purchases?
-* What are the most common channels through which customers make their purchases? Are they primarily using the supermarket’s website, visiting physical stores, or ordering through catalogs?
-* Which products have the highest and lowest sales values? Identifying these can help tailor inventory and marketing strategies.
-* How effective have the various types of campaigns been in driving product sales? Understanding this will aid in refining future marketing efforts.
-* Does offering discounts significantly increase the number of customer purchases? Analyzing this can inform pricing and promotional strategies.
-* What are the common issues raised by customers, and how can these be addressed to improve customer satisfaction and loyalty?
+* How the distribution of age, income and marital status affects customer purchasing patterns?
+* Does age, income, relationship status and number of children influence the product category purchased?
+* What products are often purchased together by customers and how can this be used to increase sales
+* What products have the highest and lowest sales rate?
+* How effective each campaign bacth to each product category revenue?
 
 By answering these questions, the data analyst will provide Supermarket ABC's management with actionable insights to enhance their strategic decisions, ultimately aiming to increase sales and customer satisfaction in a competitive market environment.
 
